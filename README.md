@@ -8,6 +8,7 @@ minimize the dependency on systemd, with the objective of removing bloat.
 ## Current workarounds available
 
 * Pulseaudio
+* GDM / systemd login
 
 ## About
 
