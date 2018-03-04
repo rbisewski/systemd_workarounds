@@ -9,6 +9,10 @@ minimize the dependency on systemd, with the objective of removing bloat.
 
 * Pulseaudio
 * GDM / systemd login
+* NetCtl
+* Power Management
+* AccountService
+* Various miscellaneous Linux packages associated with systemd
 
 ## About
 
