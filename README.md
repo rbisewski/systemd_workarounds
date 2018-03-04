@@ -14,6 +14,11 @@ minimize the dependency on systemd, with the objective of removing bloat.
 * AccountService
 * Various miscellaneous Linux packages associated with systemd
 
+## TODOs
+
+* improve Pulseaudio section
+* suggest alternatives to polkit
+
 ## About
 
 In theory the author has no major objection to systemd, as in all fairness
