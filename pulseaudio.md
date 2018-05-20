@@ -1,8 +1,12 @@
 # Pulse Audio
 
-In general unless there is a need to run many multiple sets of sound
-sources, the ALSA libs are sufficient for most applications. Ergo the
-pulseaudio packages themselves can be removed as follows:
+Unfortunately, for modern usability on many aspects of Linux desktops,
+pulseaudio is needed to make it easy to manage various types of audio
+devices.
+
+That said, for a minimalist system, the ALSA libs are sufficient for
+most applications. Ergo the pulseaudio packages themselves can be removed
+as follows:
 
 ```
 sudo pacman -R pulseaudio pulseaudio-alsa pulseaudio-bluetooth pulseaudio-equalizer pulseaudio-jack rtkit
